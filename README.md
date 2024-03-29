@@ -9,7 +9,7 @@ Other localizations are somewhat complete but not entirely.
 ## Contribute
 Feel free to open Issues if you play in game and notice something that's wrong. Alternatively, you can simply edit the .xml file yourself, fix it, and submit a Pull Request.
 
-# Tools
+## Tools
 This repository include some tools.
 - Find Chinese tool: this tool will simply detect which lines still contain Chinese characters and the total number of lines containing them.
 - Parser tool: this tool is used to convert back and forth between .rdf and .xml. Example usages: `python parser.py text.xml --to-rdf --file-type text` and `python parser.py quest.rdf--to-xml --file-type quest`.
