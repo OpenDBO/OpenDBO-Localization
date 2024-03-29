@@ -2,9 +2,9 @@
 This repository holds text data for DBO. It contains both the original text and localizations for different languages.
 
 ## Status
-Only the English translation is fully completed (100%) although it still contains errors and things to improve, specially in the parts that were translated long ago.
+The English translation is fully completed (100%), albeit it still contains errors and areas for improvement, especially in parts that were translated long ago.
 
-The other localizations are somewhat complete, but not fully.
+Other localizations are somewhat complete but not entirely.
 
 ## Contribute
 Feel free to open Issues if you play in game and notice something that's wrong. Alternatively, you can simply edit the .xml file yourself, fix it, and submit a Pull Request.
