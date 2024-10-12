@@ -1120,7 +1120,7 @@ DST_ITEMGRADETRANSFER_RESULTCOMMENT="[align = ""center""][font size = ""12"" col
 DST_ITEMGRADETRANSFER_TARGETTOOLTIP="Insert Target-Item please"
 DST_ITEMLIST="Item list"
 DST_ITEMLIST_ITEMNAME="Name: %s"
-DST_ITEMLIST_REMAINTIME="Time Left: %dm %ds"
+DST_ITEMLIST_REMAINTIME="Time Left: %dd %dh"
 DST_ITEMLIST_REMAINTIME_H="Time Left: %dh"
 DST_ITEMPROPERTY_NOTIFY_TRANSITEM_NEED_LEVEL_ERR="Need an Item same or higher level"
 DST_ITEMPROPERTY_NOTIFY_TRANSITEM_NONE="Insert the item as target first"
